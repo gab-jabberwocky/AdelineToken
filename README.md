@@ -9,3 +9,6 @@ https://chainlist.org/?search=sepolia&testnets=true
 
 // Sepolia faucet
 https://cloud.google.com/application/web3/faucet
+
+// Faucets list
+https://faucets.chain.link/
